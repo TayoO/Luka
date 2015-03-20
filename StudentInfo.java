@@ -22,13 +22,13 @@ public class StudentInfo {
 	        System.out
 	                .println("************************************************************");
 	        System.out
-	                .println("*                                                          *");
+	                .println("*  Justin Paro                                             *");
 	        System.out
-	                .println("*                                                          *");
+	                .println("*  Student #: 7814476                                      *");
 	        System.out
-	                .println("*                                                          *");
+	                .println("*  Section C                                               *");
 	        System.out
-	                .println("*                                                          *");
+	                .println("*  Partner Tayo Oudeuke                                    *");
 	        System.out
 	                .println("************************************************************");
 	        System.out.println();
